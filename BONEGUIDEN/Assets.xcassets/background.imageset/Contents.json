@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Skärmavbild 2021-07-14 kl. 19.48.12.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Skärmavbild 2021-07-14 kl. 19.48.12-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Skärmavbild 2021-07-14 kl. 19.48.12-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -7,19 +7,105 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6919CBC926A2FEB100C518FC /* StepDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6919CBC826A2FEB100C518FC /* StepDisplayView.swift */; };
+		6919CBCB26A30CF400C518FC /* ItemModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6919CBCA26A30CF400C518FC /* ItemModal.swift */; };
+		6919CBCD26A30FCB00C518FC /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6919CBCC26A30FCB00C518FC /* ListRowView.swift */; };
+		692E6CBB26A58025005960B2 /* WashGhuslView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CBA26A58025005960B2 /* WashGhuslView.swift */; };
+		692E6CBD26A5830C005960B2 /* WashWuduView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CBC26A5830C005960B2 /* WashWuduView.swift */; };
+		692E6CBF26A58664005960B2 /* SuraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CBE26A58664005960B2 /* SuraView.swift */; };
+		692E6CC126A58955005960B2 /* ModalFastanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CC026A58955005960B2 /* ModalFastanView.swift */; };
+		692E6CC326A58D52005960B2 /* 5bonerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CC226A58D52005960B2 /* 5bonerView.swift */; };
+		692E6CC626A58F03005960B2 /* Pilgrim-HajiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CC526A58F03005960B2 /* Pilgrim-HajiView.swift */; };
+		692E6CC826A58F4E005960B2 /* PelareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CC726A58F4E005960B2 /* PelareView.swift */; };
+		692E6CCA26A58F8F005960B2 /* JihadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CC926A58F8F005960B2 /* JihadView.swift */; };
+		692E6CCC26A58FEF005960B2 /* KalendernView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CCB26A58FEF005960B2 /* KalendernView.swift */; };
+		692E6CCE26A5903B005960B2 /* fortryckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CCD26A5903B005960B2 /* fortryckView.swift */; };
+		692E6CD826A5AA1B005960B2 /* DuaPrayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CD726A5AA1B005960B2 /* DuaPrayView.swift */; };
+		692E6CDA26A5ADA2005960B2 /* DuaOutsideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CD926A5ADA2005960B2 /* DuaOutsideView.swift */; };
+		692E6CDC26A5ADB0005960B2 /* DuaSleep.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CDB26A5ADB0005960B2 /* DuaSleep.swift */; };
+		692E6CDE26A5ADBC005960B2 /* DuaFamilyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CDD26A5ADBC005960B2 /* DuaFamilyView.swift */; };
+		692E6CE026A5AE32005960B2 /* DuaSorryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CDF26A5AE32005960B2 /* DuaSorryView.swift */; };
+		692E6CE226A5B379005960B2 /* SpeakView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692E6CE126A5B379005960B2 /* SpeakView.swift */; };
 		693231C0269F3FC000FD41B0 /* BONEGUIDENApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 693231BF269F3FC000FD41B0 /* BONEGUIDENApp.swift */; };
 		693231C2269F3FC000FD41B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 693231C1269F3FC000FD41B0 /* ContentView.swift */; };
 		693231C4269F3FC300FD41B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 693231C3269F3FC300FD41B0 /* Assets.xcassets */; };
 		693231C7269F3FC300FD41B0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 693231C6269F3FC300FD41B0 /* Preview Assets.xcassets */; };
+		6980F9B826A5BD230038C267 /* DuaAllahView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6980F9B726A5BD230038C267 /* DuaAllahView.swift */; };
+		6980F9BA26A5BD320038C267 /* SickView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6980F9B926A5BD310038C267 /* SickView.swift */; };
+		6980F9BF26A5D0770038C267 /* ItemPray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6980F9BE26A5D0770038C267 /* ItemPray.swift */; };
+		6980F9C326A5EEFD0038C267 /* HorizontalScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6980F9C226A5EEFD0038C267 /* HorizontalScrollView.swift */; };
+		698F190E269F747F00BDE92F /* OptionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F190D269F747F00BDE92F /* OptionsView.swift */; };
+		699F71A026A43658001ECCF9 /* BookTipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699F719F26A43658001ECCF9 /* BookTipsView.swift */; };
+		699F71A226A43759001ECCF9 /* WhatIsIslamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699F71A126A43759001ECCF9 /* WhatIsIslamView.swift */; };
+		699F71A426A451F3001ECCF9 /* KnowledgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699F71A326A451F3001ECCF9 /* KnowledgeView.swift */; };
+		699F71A626A4523C001ECCF9 /* QuestionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699F71A526A4523C001ECCF9 /* QuestionsView.swift */; };
+		699F71A826A4629C001ECCF9 /* WashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699F71A726A4629C001ECCF9 /* WashView.swift */; };
+		699F71AA26A4644B001ECCF9 /* NextButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699F71A926A4644B001ECCF9 /* NextButtonView.swift */; };
+		69A1C2B026A1987C00DB0855 /* PrayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A1C2AF26A1987C00DB0855 /* PrayView.swift */; };
+		69A1C2B426A19ECE00DB0855 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A1C2B326A19ECE00DB0855 /* TabBarView.swift */; };
+		69A1C2B626A1A83F00DB0855 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A1C2B526A1A83F00DB0855 /* HomeView.swift */; };
+		69A1C2B826A1A8D100DB0855 /* DuaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A1C2B726A1A8D100DB0855 /* DuaView.swift */; };
+		69A1C2BA26A1A8EC00DB0855 /* AppsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A1C2B926A1A8EC00DB0855 /* AppsView.swift */; };
+		69A1C2C026A1B94200DB0855 /* GoPrayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A1C2BF26A1B94200DB0855 /* GoPrayView.swift */; };
+		69A1C2C626A1CDC500DB0855 /* ModalUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A1C2C526A1CDC500DB0855 /* ModalUIView.swift */; };
+		69BE07CB26A3519C00AF6D77 /* Webview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69BE07CA26A3519C00AF6D77 /* Webview.swift */; };
+		69D67E5C26AD826500CF2D15 /* BudskapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D67E5B26AD826500CF2D15 /* BudskapView.swift */; };
+		69D67E5E26AD843D00CF2D15 /* AlWajibView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D67E5D26AD843D00CF2D15 /* AlWajibView.swift */; };
+		69D67E6026AD845200CF2D15 /* människanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D67E5F26AD845200CF2D15 /* människanView.swift */; };
+		69D67E6226AD846900CF2D15 /* VärdeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D67E6126AD846900CF2D15 /* VärdeView.swift */; };
+		69D67E6426AD848100CF2D15 /* RättigheterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69D67E6326AD848100CF2D15 /* RättigheterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6919CBC826A2FEB100C518FC /* StepDisplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepDisplayView.swift; sourceTree = "<group>"; };
+		6919CBCA26A30CF400C518FC /* ItemModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModal.swift; sourceTree = "<group>"; };
+		6919CBCC26A30FCB00C518FC /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
+		692E6CBA26A58025005960B2 /* WashGhuslView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WashGhuslView.swift; sourceTree = "<group>"; };
+		692E6CBC26A5830C005960B2 /* WashWuduView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WashWuduView.swift; sourceTree = "<group>"; };
+		692E6CBE26A58664005960B2 /* SuraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuraView.swift; sourceTree = "<group>"; };
+		692E6CC026A58955005960B2 /* ModalFastanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalFastanView.swift; sourceTree = "<group>"; };
+		692E6CC226A58D52005960B2 /* 5bonerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 5bonerView.swift; sourceTree = "<group>"; };
+		692E6CC526A58F03005960B2 /* Pilgrim-HajiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pilgrim-HajiView.swift"; sourceTree = "<group>"; };
+		692E6CC726A58F4E005960B2 /* PelareView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PelareView.swift; sourceTree = "<group>"; };
+		692E6CC926A58F8F005960B2 /* JihadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JihadView.swift; sourceTree = "<group>"; };
+		692E6CCB26A58FEF005960B2 /* KalendernView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KalendernView.swift; sourceTree = "<group>"; };
+		692E6CCD26A5903B005960B2 /* fortryckView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fortryckView.swift; sourceTree = "<group>"; };
+		692E6CD726A5AA1B005960B2 /* DuaPrayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaPrayView.swift; sourceTree = "<group>"; };
+		692E6CD926A5ADA2005960B2 /* DuaOutsideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaOutsideView.swift; sourceTree = "<group>"; };
+		692E6CDB26A5ADB0005960B2 /* DuaSleep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaSleep.swift; sourceTree = "<group>"; };
+		692E6CDD26A5ADBC005960B2 /* DuaFamilyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaFamilyView.swift; sourceTree = "<group>"; };
+		692E6CDF26A5AE32005960B2 /* DuaSorryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaSorryView.swift; sourceTree = "<group>"; };
+		692E6CE126A5B379005960B2 /* SpeakView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeakView.swift; sourceTree = "<group>"; };
 		693231BC269F3FC000FD41B0 /* BONEGUIDEN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BONEGUIDEN.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		693231BF269F3FC000FD41B0 /* BONEGUIDENApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BONEGUIDENApp.swift; sourceTree = "<group>"; };
 		693231C1269F3FC000FD41B0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		693231C3269F3FC300FD41B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		693231C6269F3FC300FD41B0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		693231C8269F3FC300FD41B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6980F9B726A5BD230038C267 /* DuaAllahView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaAllahView.swift; sourceTree = "<group>"; };
+		6980F9B926A5BD310038C267 /* SickView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SickView.swift; sourceTree = "<group>"; };
+		6980F9BE26A5D0770038C267 /* ItemPray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemPray.swift; sourceTree = "<group>"; };
+		6980F9C226A5EEFD0038C267 /* HorizontalScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalScrollView.swift; sourceTree = "<group>"; };
+		698F190D269F747F00BDE92F /* OptionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsView.swift; sourceTree = "<group>"; };
+		699F719F26A43658001ECCF9 /* BookTipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookTipsView.swift; sourceTree = "<group>"; };
+		699F71A126A43759001ECCF9 /* WhatIsIslamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatIsIslamView.swift; sourceTree = "<group>"; };
+		699F71A326A451F3001ECCF9 /* KnowledgeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnowledgeView.swift; sourceTree = "<group>"; };
+		699F71A526A4523C001ECCF9 /* QuestionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionsView.swift; sourceTree = "<group>"; };
+		699F71A726A4629C001ECCF9 /* WashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WashView.swift; sourceTree = "<group>"; };
+		699F71A926A4644B001ECCF9 /* NextButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextButtonView.swift; sourceTree = "<group>"; };
+		69A1C2AF26A1987C00DB0855 /* PrayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrayView.swift; sourceTree = "<group>"; };
+		69A1C2B326A19ECE00DB0855 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		69A1C2B526A1A83F00DB0855 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		69A1C2B726A1A8D100DB0855 /* DuaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaView.swift; sourceTree = "<group>"; };
+		69A1C2B926A1A8EC00DB0855 /* AppsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppsView.swift; sourceTree = "<group>"; };
+		69A1C2BF26A1B94200DB0855 /* GoPrayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoPrayView.swift; sourceTree = "<group>"; };
+		69A1C2C526A1CDC500DB0855 /* ModalUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalUIView.swift; sourceTree = "<group>"; };
+		69BE07CA26A3519C00AF6D77 /* Webview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webview.swift; sourceTree = "<group>"; };
+		69D67E5B26AD826500CF2D15 /* BudskapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudskapView.swift; sourceTree = "<group>"; };
+		69D67E5D26AD843D00CF2D15 /* AlWajibView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlWajibView.swift; sourceTree = "<group>"; };
+		69D67E5F26AD845200CF2D15 /* människanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "människanView.swift"; sourceTree = "<group>"; };
+		69D67E6126AD846900CF2D15 /* VärdeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "VärdeView.swift"; sourceTree = "<group>"; };
+		69D67E6326AD848100CF2D15 /* RättigheterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RättigheterView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +119,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		692E6CC426A58DB0005960B2 /* Modal */ = {
+			isa = PBXGroup;
+			children = (
+				692E6CC026A58955005960B2 /* ModalFastanView.swift */,
+				692E6CC226A58D52005960B2 /* 5bonerView.swift */,
+				692E6CC526A58F03005960B2 /* Pilgrim-HajiView.swift */,
+				692E6CC726A58F4E005960B2 /* PelareView.swift */,
+				692E6CC926A58F8F005960B2 /* JihadView.swift */,
+				692E6CCB26A58FEF005960B2 /* KalendernView.swift */,
+				692E6CCD26A5903B005960B2 /* fortryckView.swift */,
+				692E6CE126A5B379005960B2 /* SpeakView.swift */,
+			);
+			path = Modal;
+			sourceTree = "<group>";
+		};
+		692E6CD426A5A9F0005960B2 /* Dua */ = {
+			isa = PBXGroup;
+			children = (
+				692E6CD726A5AA1B005960B2 /* DuaPrayView.swift */,
+				692E6CD926A5ADA2005960B2 /* DuaOutsideView.swift */,
+				692E6CDB26A5ADB0005960B2 /* DuaSleep.swift */,
+				692E6CDD26A5ADBC005960B2 /* DuaFamilyView.swift */,
+				692E6CDF26A5AE32005960B2 /* DuaSorryView.swift */,
+				6980F9B726A5BD230038C267 /* DuaAllahView.swift */,
+				6980F9B926A5BD310038C267 /* SickView.swift */,
+			);
+			path = Dua;
+			sourceTree = "<group>";
+		};
 		693231B3269F3FC000FD41B0 = {
 			isa = PBXGroup;
 			children = (
@@ -53,7 +168,31 @@
 			isa = PBXGroup;
 			children = (
 				693231BF269F3FC000FD41B0 /* BONEGUIDENApp.swift */,
+				69A1C2B326A19ECE00DB0855 /* TabBarView.swift */,
 				693231C1269F3FC000FD41B0 /* ContentView.swift */,
+				69A1C2B526A1A83F00DB0855 /* HomeView.swift */,
+				698F190D269F747F00BDE92F /* OptionsView.swift */,
+				699F719F26A43658001ECCF9 /* BookTipsView.swift */,
+				699F71A126A43759001ECCF9 /* WhatIsIslamView.swift */,
+				699F71A326A451F3001ECCF9 /* KnowledgeView.swift */,
+				699F71A526A4523C001ECCF9 /* QuestionsView.swift */,
+				69A1C2AF26A1987C00DB0855 /* PrayView.swift */,
+				6980F9C226A5EEFD0038C267 /* HorizontalScrollView.swift */,
+				6980F9BE26A5D0770038C267 /* ItemPray.swift */,
+				69A1C2BF26A1B94200DB0855 /* GoPrayView.swift */,
+				6919CBC826A2FEB100C518FC /* StepDisplayView.swift */,
+				699F71A926A4644B001ECCF9 /* NextButtonView.swift */,
+				6980F9BB26A5CAE20038C267 /* Wash */,
+				692E6CBE26A58664005960B2 /* SuraView.swift */,
+				69A1C2B726A1A8D100DB0855 /* DuaView.swift */,
+				6919CBCC26A30FCB00C518FC /* ListRowView.swift */,
+				6919CBCA26A30CF400C518FC /* ItemModal.swift */,
+				69A1C2B926A1A8EC00DB0855 /* AppsView.swift */,
+				69A1C2C526A1CDC500DB0855 /* ModalUIView.swift */,
+				69BE07CA26A3519C00AF6D77 /* Webview.swift */,
+				69D67E5826AD81B000CF2D15 /* QuestionsModal */,
+				692E6CD426A5A9F0005960B2 /* Dua */,
+				692E6CC426A58DB0005960B2 /* Modal */,
 				693231C3269F3FC300FD41B0 /* Assets.xcassets */,
 				693231C8269F3FC300FD41B0 /* Info.plist */,
 				693231C5269F3FC300FD41B0 /* Preview Content */,
@@ -67,6 +206,28 @@
 				693231C6269F3FC300FD41B0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6980F9BB26A5CAE20038C267 /* Wash */ = {
+			isa = PBXGroup;
+			children = (
+				699F71A726A4629C001ECCF9 /* WashView.swift */,
+				692E6CBC26A5830C005960B2 /* WashWuduView.swift */,
+				692E6CBA26A58025005960B2 /* WashGhuslView.swift */,
+			);
+			path = Wash;
+			sourceTree = "<group>";
+		};
+		69D67E5826AD81B000CF2D15 /* QuestionsModal */ = {
+			isa = PBXGroup;
+			children = (
+				69D67E5B26AD826500CF2D15 /* BudskapView.swift */,
+				69D67E5D26AD843D00CF2D15 /* AlWajibView.swift */,
+				69D67E5F26AD845200CF2D15 /* människanView.swift */,
+				69D67E6126AD846900CF2D15 /* VärdeView.swift */,
+				69D67E6326AD848100CF2D15 /* RättigheterView.swift */,
+			);
+			path = QuestionsModal;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +299,51 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				692E6CBD26A5830C005960B2 /* WashWuduView.swift in Sources */,
+				692E6CDA26A5ADA2005960B2 /* DuaOutsideView.swift in Sources */,
+				692E6CBF26A58664005960B2 /* SuraView.swift in Sources */,
+				6980F9BF26A5D0770038C267 /* ItemPray.swift in Sources */,
+				692E6CE026A5AE32005960B2 /* DuaSorryView.swift in Sources */,
+				69A1C2C026A1B94200DB0855 /* GoPrayView.swift in Sources */,
+				692E6CCC26A58FEF005960B2 /* KalendernView.swift in Sources */,
+				692E6CC626A58F03005960B2 /* Pilgrim-HajiView.swift in Sources */,
+				699F71A226A43759001ECCF9 /* WhatIsIslamView.swift in Sources */,
+				69D67E6026AD845200CF2D15 /* människanView.swift in Sources */,
 				693231C2269F3FC000FD41B0 /* ContentView.swift in Sources */,
+				692E6CC126A58955005960B2 /* ModalFastanView.swift in Sources */,
+				69D67E5C26AD826500CF2D15 /* BudskapView.swift in Sources */,
+				6919CBCB26A30CF400C518FC /* ItemModal.swift in Sources */,
+				6980F9B826A5BD230038C267 /* DuaAllahView.swift in Sources */,
+				69A1C2BA26A1A8EC00DB0855 /* AppsView.swift in Sources */,
+				6980F9C326A5EEFD0038C267 /* HorizontalScrollView.swift in Sources */,
+				692E6CCE26A5903B005960B2 /* fortryckView.swift in Sources */,
+				69D67E5E26AD843D00CF2D15 /* AlWajibView.swift in Sources */,
+				692E6CE226A5B379005960B2 /* SpeakView.swift in Sources */,
+				69D67E6426AD848100CF2D15 /* RättigheterView.swift in Sources */,
+				69A1C2B626A1A83F00DB0855 /* HomeView.swift in Sources */,
+				699F71A426A451F3001ECCF9 /* KnowledgeView.swift in Sources */,
+				692E6CBB26A58025005960B2 /* WashGhuslView.swift in Sources */,
+				69BE07CB26A3519C00AF6D77 /* Webview.swift in Sources */,
+				699F71A626A4523C001ECCF9 /* QuestionsView.swift in Sources */,
+				692E6CDC26A5ADB0005960B2 /* DuaSleep.swift in Sources */,
+				699F71AA26A4644B001ECCF9 /* NextButtonView.swift in Sources */,
+				699F71A826A4629C001ECCF9 /* WashView.swift in Sources */,
+				69D67E6226AD846900CF2D15 /* VärdeView.swift in Sources */,
+				6919CBC926A2FEB100C518FC /* StepDisplayView.swift in Sources */,
+				6980F9BA26A5BD320038C267 /* SickView.swift in Sources */,
+				6919CBCD26A30FCB00C518FC /* ListRowView.swift in Sources */,
+				69A1C2B026A1987C00DB0855 /* PrayView.swift in Sources */,
+				69A1C2B426A19ECE00DB0855 /* TabBarView.swift in Sources */,
 				693231C0269F3FC000FD41B0 /* BONEGUIDENApp.swift in Sources */,
+				692E6CCA26A58F8F005960B2 /* JihadView.swift in Sources */,
+				69A1C2B826A1A8D100DB0855 /* DuaView.swift in Sources */,
+				69A1C2C626A1CDC500DB0855 /* ModalUIView.swift in Sources */,
+				692E6CC326A58D52005960B2 /* 5bonerView.swift in Sources */,
+				692E6CDE26A5ADBC005960B2 /* DuaFamilyView.swift in Sources */,
+				692E6CC826A58F4E005960B2 /* PelareView.swift in Sources */,
+				698F190E269F747F00BDE92F /* OptionsView.swift in Sources */,
+				692E6CD826A5AA1B005960B2 /* DuaPrayView.swift in Sources */,
+				699F71A026A43658001ECCF9 /* BookTipsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
